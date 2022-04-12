@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/a-heo/go-grocery/grocery"
+	"github.com/a-heo/go-grocery/src/utils"
 	"fmt"
 )
 
